@@ -7,4 +7,4 @@ STILL UNDER CONSTRUCTION
 
 
 
-![text}(gameplay.png)
+![text](gameplay.png)
